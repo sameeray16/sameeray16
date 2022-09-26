@@ -7,6 +7,8 @@
 
 <a href = "https://www.linkedin.com/in/sameer-ahamed-168864221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/sameeray16/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/sameeray16_R6" > <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/> </a>
+
 
 </p>
 
