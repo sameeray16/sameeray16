@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack development<br>👯 I’m looking to collaborate on open source projects<br>💬 contact me on sameerjr753@gmail.com<br>⚡ Fun fact iam going to be the pirate king
+🔭 I’m currently working on full stack development<br>👯 I’m looking to collaborate on open source projects<br>💬 contact me on sameerjr753@gmail.com<br>⚡ Fun fact - kaizoku ni orewa naru
 
 
 # Connect with me:
