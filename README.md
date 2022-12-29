@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 full stack developer<br>👯 I’m looking to collaborate on open source projects<br>💬 contact me on sameerjr753@gmail.com<br>⚡ Fun fact - kaizoku ni orewa naru
+🔭 full stack developer<br>👯 I’m looking to collaborate on open source projects<br>💬 contact me on sameerjr753@gmail.com<br>⚡ Fun fact - kaizoku ou ni orewa naru
 
 
 # Connect with me:
